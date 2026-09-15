@@ -1,3 +1,11 @@
+<div align="center">
+
+# 🚀 n8n Windows Local Setup Guide
+
+**Run n8n locally on Windows via npm — no Docker, no WSL2**
+
+</div>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=17&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=750&lines=Self-Hosted+n8n+on+Windows+%E2%80%94+No+Docker%2C+No+WSL2;npm+%2B+ngrok+%2B+Memurai+(Redis)+%2B+Auto-Start+Script;WhatsApp+Webhook+%2B+Backup+Restore+%2B+Credential+Fix)](https://git.io/typing-svg)
 
 [![Windows](https://img.shields.io/badge/OS-Windows%2010%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
